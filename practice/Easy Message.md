@@ -18,6 +18,7 @@ Tools:
 ===============
 1. burp suite
 2. dirsearch
+3. [decode.fr](https://www.dcode.fr/en)
 
 ___
 
