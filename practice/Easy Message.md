@@ -30,3 +30,5 @@ we should have a username and password to login.
 2. see Request and Response using burp suite **we didn't find anything**
 3. try to detect sql injection vuln **there aren't any sql injection here**
 4. so we will Brute forec directory using [dirsearch tool](https://github.com/maurosoria/dirsearch)
+5. ![](images/Easy Message/dirsearch_result.png)
+
