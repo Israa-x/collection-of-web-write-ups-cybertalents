@@ -38,9 +38,11 @@ From our hint you should search about How you can bypass **CONTROLS** (headers) 
 
 5. ![](images/Got_controls/localhost_.png) 
 
-6. so we have an IP , so we need to bypass it after some search: ![](images/Got_controls/bypass_headers.png) 
+6. so we have an IP , so we need to bypass it after some search
 
-7. let's use this **X-Forwarded-For** header with localhost ip **127.0.0.1** using burp inject this header and **assign** it to 127.0.0.1
+7. ![](images/Got_controls/headers.png) 
 
-8. Flag: ![](images/Got_controls/flag.png) 
+8. let's use this **X-Forwarded-For** header with localhost ip **127.0.0.1** using burp inject this header and **assign** it to 127.0.0.1
+
+9. Flag: ![](images/Got_controls/flag.png) 
 
