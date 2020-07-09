@@ -26,7 +26,7 @@ Tools:
 
 ___
 
-from hint you need to ba an admin 
+from hint you need to be an admin 
 # steps:
 1. let's try Detect Sqli to login as an admin , but we didn't detect it 
 2. let's see source code, dev tools, cookie
@@ -34,4 +34,4 @@ from hint you need to ba an admin
 4. try to manipulate cookies value
 5. change username from **user** to **admin** and admin from **False** to **True**
 6. Flag: 
-![](images/secretblog/Flag.png)
+![](images/secret_blog/Flag.png)
