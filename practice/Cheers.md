@@ -46,6 +46,6 @@ From our hint you should search about shomething cheers you up mmmmm!
 
 10. the Flag: ![](images/Cheers/flag.png)
 
-11. thanks to my Friend [Abanob](https://www.facebook.com/Abanob.Medhaat)
+11. thanks to my Friend [Abanob](https://www.facebook.com/Abanob.Medhaat) for teeling my that he is not welcome me
 
 
