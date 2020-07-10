@@ -59,5 +59,5 @@ ___
 
 15. Falg with First payload:
   ![](images/bypass_the_world/flag1.png)
-16. Falg with First payload:
+16. Falg with Second payload:
   ![](images/bypass_the_world/flag2.png)
