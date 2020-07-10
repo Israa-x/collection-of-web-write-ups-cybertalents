@@ -59,4 +59,4 @@ ___
 
 15. Falg:
   ![](images/bypass_the_world/flag1.png)
-  ![](images/bypass_the_world/flag.png)
+  ![](images/bypass_the_world/flag2.png)
