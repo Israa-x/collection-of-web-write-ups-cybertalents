@@ -57,6 +57,7 @@ ___
 
 14. in this step i will explain step 12 **Second payload**, sql query 'll be like that: $query ="SELECT * FROM users where name='and password='**' or 1=1 -- -**'" *//true and will login*
 
-15. Falg:
+15. Falg with First payload:
   ![](images/bypass_the_world/flag1.png)
+16. Falg with First payload:
   ![](images/bypass_the_world/flag2.png)
