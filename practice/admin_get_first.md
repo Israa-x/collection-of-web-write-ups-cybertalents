@@ -1,0 +1,32 @@
+Challenge URL
+===============
+[ admin gate first](https://cybertalents.com/challenges/web/admin-gate-first)
+
+Challenge Description
+===============
+Flag is safe in the admin account info
+
+Level:
+===============
+medium
+
+Points:
+===============
+100
+
+Requirements: 
+===============
+1. Knowledge about JWT and How to Crack it
+
+Tools:
+===============
+1. hashcat
+2. [JWT.IO](https://jwt.io/)
+
+___
+
+From our hint you should be an admin to get the Flag
+# steps:
+1. first thing , you will notice login Form with known User:test and Pass:test
+2.try to login 
+3. ! []('images/admin gate first/login.png')
